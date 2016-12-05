@@ -1,7 +1,7 @@
 {
-  "name": "vue-socket.io",
+  "name": "vue-sockeio-client",
   "version": "2.0.1",
-  "description": "socket.io implemantation for vuejs",
+  "description": "socket.io-client implemantation for vuejs",
   "main": "dist/build.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
@@ -18,12 +18,11 @@
     "socket.io",
 	"comolokko"
   ],
-  "author": "Metin Seylan",
+  "author": "Shawn Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MetinSeylan/Vue-Socket.io/issues"
   },
-  "homepage": "https://github.com/MetinSeylan/Vue-Socket.io#readme",
+  "homepage": "",
   "dependencies": {
     "socket.io-client": "^1.4.6"
   },

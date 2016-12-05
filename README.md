@@ -1,6 +1,8 @@
 # Vue-Socket.io
 socket.io implemantation for Vuejs 2.0 and 1.0
 
+fork from [http://metinseylan.com/vuesocketio/](http://metinseylan.com/vuesocketio/)
+
 ## Install
 
   ``` bash
